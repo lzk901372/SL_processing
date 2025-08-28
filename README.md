@@ -1,6 +1,6 @@
-## Data processing pipeline for seamless dataset
+## Data processing pipeline for SL dataset
 
-- Use `find_paired_conversations_cli.py` to get all paired-up conversations from seamless dataset (original seamless data are not paired up structurally.)
+- Use `find_paired_conversations_cli.py` to get all paired-up conversations from SL dataset (original SL data are not paired up structurally.)
 
 - Use `get_transcriptions_timestamps.py` to obtain timestamps of listening segments for each video according to original annotations.
 
